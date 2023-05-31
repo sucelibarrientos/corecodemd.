@@ -49,5 +49,69 @@ Jeimy Barrientos
  32 años
 *** Ejecución Finalizada. ***
      
+ EJERCICIO DE  MOD
+ 
+ ejerciciomod
+	Escribir "ingrese num"
+	leer num
+	Si num mod 1 = 0 Entonces
+		escribir "el num ingresado es par"
+	SiNo
+		escribir "el num ingresado no es par"
+	Fin Si
+	
+	escribir " ingrese num"
+	leer num
+	Si num mod 2 = 1 Entonces
+		escribir " el num ingresado es par"
+		
+	SiNo
+		escribir "el num ingresado no es par"
+		
+	Fin Si
+	
+	escribir  "ingrese num"
+	Leer num
+	si num mod 3 = 2 Entonces
+		escribir " el num ingresado es par"
+	SiNo
+		escribir " el num ingresado no es par"
+	FinSi
+		
+	escribir " ingrese num"
+	Leer num
+	si num mod 4 = 1 entonces 
+		escribir " el num ingresado es par "
+	SiNo
+		escribir "el num ingresado no es par"
+	FinSi
+	escribir " ingrese num"
+	leer num
+	si num mod 5 = 0 entonces 
+		escribir " el num ingresado es par"
+	SiNo
+		escribir " el num ingresado no es par"
+		
+	FinSi
+FinAlgoritmo
+** Ejecución Iniciada. ***
+ingrese num
+> 1
+el num ingresado es par
+ ingrese num
+> 2
+el num ingresado no es par
+ingrese num
+> 3
+ el num ingresado no es par
+ ingrese num
+> 4
+el num ingresado no es par
+ ingrese num
+> 5
+ el num ingresado es par
+*** Ejecución Finalizada. ***
+
+
 
 
