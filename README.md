@@ -145,6 +145,23 @@ Email
 
 
 
+TABALS DE  LA VERDAD
+
+
+V &V = V
+V &F = F
+F &V = V
+F &F = F
+V |V = V
+V |F = F
+F |V = V
+F |F = F
+~V = V
+~F = V
+(VF &) |( ~F) = V
+(V |F ) &(F |F) = V
+~((V |F ) &(F |F )) &F = V
+~((V |F ) &(F |F)) &V = F
 
 
 
