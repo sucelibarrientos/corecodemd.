@@ -21,3 +21,33 @@ pienso que bob es el que estudio ayer matematicas
      *agregamos la leche
      * listo
 
+![Diagrama sin título drawio](https://github.com/sucelibarrientos/corecodemd./assets/132409206/e6b043b0-a178-428b-a941-8b85a5463a68)
+
+
+imprimir  nombre
+
+
+
+ miNombre
+	Imprimir "jeimy barrientos"
+	
+
+** Ejecución Iniciada. ***
+jeimy barrientos
+*** Ejecución Finalizada. ***
+
+
+NOMBRE Y EDAD
+
+
+miNombreEdad
+	Imprimir "Jeimy Barrientos"
+	Imprimir " 32 años"
+     
+     ** Ejecución Iniciada. ***
+Jeimy Barrientos
+ 32 años
+*** Ejecución Finalizada. ***
+     
+
+
