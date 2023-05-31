@@ -1,6 +1,6 @@
 ejercicios  pseudocodigo
 
-El  profesor  le pregunta  a sus 5 estudiantes si estudiaron  ayer.
+El  profesor  le pregunta  a sus 5 estudiantes si estudiaron  ayer. 
 Alice:" Nadie  studio  matematicas ayer
 Bob: "1 una persona aprendio matematicas  ayer".
 Charlie:"2 personas  estudiaron matematicas  ayer".
