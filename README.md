@@ -112,6 +112,39 @@ el num ingresado no es par
  el num ingresado es par
 *** Ejecución Finalizada. ***
 
+ejercion formulsrio personal
+
+
+lgoritmo formulariopersonal
+	
+	imprimir "first name"
+	leer name
+	Imprimir "last name"
+	leer last 
+	Imprimir "age"
+	leer age
+	imprimir "Email"
+	leer Email
+	imprimir " Adress"
+	leer Adress
+
+
+
+
+*** Ejecución Iniciada. ***
+first name
+> Jeimy
+last name
+> Barrientos
+age
+> 32 años
+Email
+> jeimybarrientos192@gmail.com
+ Adress
+> 22av 1-39 zona 6 de mixco las brisas
+
+
+
 
 
 
