@@ -53,8 +53,8 @@ Jeimy Barrientos
  
  ejerciciomod
 	Escribir "ingrese num"
-	leer num
-	Si num mod 1 = 0 Entonces
+	leer nuM
+	Si num mod  2 = 0 ENTONCES
 		escribir "el num ingresado es par"
 	SiNo
 		escribir "el num ingresado no es par"
@@ -68,31 +68,7 @@ Jeimy Barrientos
 	SiNo
 		escribir "el num ingresado no es par"
 		
-	Fin Si
-	
-	escribir  "ingrese num"
-	Leer num
-	si num mod 3 = 2 Entonces
-		escribir " el num ingresado es par"
-	SiNo
-		escribir " el num ingresado no es par"
-	FinSi
-		
-	escribir " ingrese num"
-	Leer num
-	si num mod 4 = 1 entonces 
-		escribir " el num ingresado es par "
-	SiNo
-		escribir "el num ingresado no es par"
-	FinSi
-	escribir " ingrese num"
-	leer num
-	si num mod 5 = 0 entonces 
-		escribir " el num ingresado es par"
-	SiNo
-		escribir " el num ingresado no es par"
-		
-	FinSi
+	FIN  SI
 FinAlgoritmo
 ** Ejecución Iniciada. ***
 ingrese num
@@ -162,3 +138,35 @@ F |F = F  ✔️
 (V |F ) &(F |F) = V  ❌
 ~((V |F ) &(F |F )) &F =  V ❌  
 ~((V |F ) &(F |F)) &V = F  ✔️
+
+
+EJERCICIO DE BOOLEANOS
+
+Booleanos
+	a <- 5 == 3 //Falso
+	b <- 4 <> 3 // veradero
+	c <- 7 > 7// Falso
+	d <- 4 < 4 //Falso
+	e <- 100 <= 90 // Falso
+	f <- 40 >= 40 // verdadero
+
+ NUMERO   PAR_IMPAR
+ 
+ 
+ par_impar
+	Escribir "ingrese el num"
+	Leer num
+	si num mod 2 = 0 Entonces
+		escribir num," es num par"
+		
+	SiNo
+		escribir num,"no es num par"
+	FinSi
+
+
+
+ Ejecución Iniciada. ***
+ingrese el num
+> 4
+4 es num par
+*** Ejecución Finalizada. ***
